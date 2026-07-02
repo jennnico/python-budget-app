@@ -1,6 +1,6 @@
 # Budget App (Python)
 
-This project was completed as part of the freeCodeCamp Scientific Computing with Python curriculum.
+This project was completed as part of the freeCodeCamp Scientific Computing with Python curriculum: https://www.freecodecamp.org/learn/python-v9/lab-budget-app/build-a-budget-app
 
 The application allows users to:
 
